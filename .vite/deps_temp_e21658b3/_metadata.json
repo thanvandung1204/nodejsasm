@@ -1,0 +1,56 @@
+{
+  "hash": "6b3c1a10",
+  "browserHash": "46e71055",
+  "optimized": {
+    "bcryptjs": {
+      "src": "../../bcryptjs/dist/bcrypt.js",
+      "file": "bcryptjs.js",
+      "fileHash": "b2b2ab93",
+      "needsInterop": true
+    },
+    "cors": {
+      "src": "../../cors/lib/index.js",
+      "file": "cors.js",
+      "fileHash": "7f054517",
+      "needsInterop": true
+    },
+    "express": {
+      "src": "../../express/index.js",
+      "file": "express.js",
+      "fileHash": "29c7767f",
+      "needsInterop": true
+    },
+    "joi": {
+      "src": "../../joi/dist/joi-browser.min.js",
+      "file": "joi.js",
+      "fileHash": "2016975d",
+      "needsInterop": true
+    },
+    "jsonwebtoken": {
+      "src": "../../jsonwebtoken/index.js",
+      "file": "jsonwebtoken.js",
+      "fileHash": "bc6c5c04",
+      "needsInterop": true
+    },
+    "mongoose": {
+      "src": "../../mongoose/dist/browser.umd.js",
+      "file": "mongoose.js",
+      "fileHash": "720065c1",
+      "needsInterop": true
+    }
+  },
+  "chunks": {
+    "chunk-X2JVOMXN": {
+      "file": "chunk-X2JVOMXN.js"
+    },
+    "chunk-OCJ7FY2Q": {
+      "file": "chunk-OCJ7FY2Q.js"
+    },
+    "chunk-XYR2UKWB": {
+      "file": "chunk-XYR2UKWB.js"
+    },
+    "chunk-7FP5O474": {
+      "file": "chunk-7FP5O474.js"
+    }
+  }
+}
